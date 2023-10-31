@@ -1,5 +1,5 @@
 package EvenorOdd;
-
+//modified
 public class EvenorOddClass {
     public static void main(String[] args){
         int num=13;
